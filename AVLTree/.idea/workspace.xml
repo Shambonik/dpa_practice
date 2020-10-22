@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14d0d143-9ff6-4031-8997-f62e2ba82674" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a61cad96-315e-4d5f-b9e3-fa76e88cdcd2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,14 +15,7 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="ProjectId" id="1hgPEpQdnEjLaNAjnQ8R5Y0z70k" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
+  <component name="ProjectId" id="1idqhlQn9DYWhvUsxGWNvU0HYNH" />
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -38,12 +29,9 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.shambonik.Main" />
-      <module name="Queue" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="AVLTree" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -59,25 +47,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="14d0d143-9ff6-4031-8997-f62e2ba82674" name="Default Changelist" comment="" />
-      <created>1600429652237</created>
+      <changelist id="a61cad96-315e-4d5f-b9e3-fa76e88cdcd2" name="Default Changelist" comment="" />
+      <created>1602247937636</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1600429652237</updated>
+      <updated>1602247937636</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
